@@ -1,7 +1,7 @@
 <div align="center">
 <img  src="/public/img/logo-dark.png" width="90" height="auto"/>
 <h2></h2>
-<h3>Welcome to the Grand Hotel Management System . This project is designed to serve hotel employees by provide login in app and manage booking and cabins details like add,create and update cabin. This system integrates with the hotel’s website, allowing guests to discover and book available cabins that is adding by Hotel Management System.
+<h3>Welcome to the Grand Hotel Management System . This project is designed to serve hotel employees by provide login in app and manage booking and cabins details like add,create and update cabin. This system integrates with <a href="https://grand-hotel-web.vercel.app/">the hotel’s website</a>, allowing guests to discover and book available cabins that is adding by Hotel Management System.
 </h3>
 </div>
 <h2></h2>
