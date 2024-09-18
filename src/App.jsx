@@ -55,7 +55,7 @@ function App() {
               <Route path="account" element={<Account />} />
             </Route>
             <Route path="login" element={<Login />} />
-            <Route path="*" element={<PageNotFound />} />s
+            <Route path="*" element={<PageNotFound />} />
           </Routes>
         </BrowserRouter>
         <Toaster

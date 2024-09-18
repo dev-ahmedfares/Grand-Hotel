@@ -10,7 +10,7 @@ export function useOutsideClick(handler, handleCapturing = true) {
           handler();
         }
       }
-      // i base true to prevent to add event in bubbling just in Capturing
+      // i pass true to prevent to add event in bubbling just in Capturing
       document.addEventListener("click", handleCloseModal, handleCapturing);
       return () =>
         document.removeEventListener(
